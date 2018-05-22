@@ -1,0 +1,4 @@
+G:\WorkSpace\WF\Clinic\ReDoCore\bin\x86\Release\ReDoCore.dll
+G:\WorkSpace\WF\Clinic\ReDoCore\bin\x86\Release\ReDoCore.pdb
+G:\WorkSpace\WF\Clinic\ReDoCore\obj\x86\Release\ReDoCore.dll
+G:\WorkSpace\WF\Clinic\ReDoCore\obj\x86\Release\ReDoCore.pdb

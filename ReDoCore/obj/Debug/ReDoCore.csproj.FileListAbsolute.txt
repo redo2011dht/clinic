@@ -1,0 +1,5 @@
+G:\WorkSpace\WF\Clinic\ReDoCore\bin\Debug\ReDoCore.dll
+G:\WorkSpace\WF\Clinic\ReDoCore\bin\Debug\ReDoCore.pdb
+G:\WorkSpace\WF\Clinic\ReDoCore\obj\Debug\ReDoCore.dll
+G:\WorkSpace\WF\Clinic\ReDoCore\obj\Debug\ReDoCore.pdb
+G:\WorkSpace\WF\Clinic\ReDoCore\obj\Debug\ReDoCore.csprojResolveAssemblyReference.cache

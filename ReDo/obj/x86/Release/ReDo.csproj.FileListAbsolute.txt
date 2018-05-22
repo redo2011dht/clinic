@@ -1,0 +1,10 @@
+G:\WorkSpace\WF\Clinic\ReDo\bin\x86\Release\ReDo.dll
+G:\WorkSpace\WF\Clinic\ReDo\bin\x86\Release\ReDo.pdb
+G:\WorkSpace\WF\Clinic\ReDo\bin\x86\Release\Bunifu_UI_v1.5.3.dll
+G:\WorkSpace\WF\Clinic\ReDo\bin\x86\Release\Npgsql.dll
+G:\WorkSpace\WF\Clinic\ReDo\bin\x86\Release\System.Threading.Tasks.Extensions.dll
+G:\WorkSpace\WF\Clinic\ReDo\bin\x86\Release\Npgsql.xml
+G:\WorkSpace\WF\Clinic\ReDo\bin\x86\Release\System.Threading.Tasks.Extensions.xml
+G:\WorkSpace\WF\Clinic\ReDo\obj\x86\Release\ReDo.dll
+G:\WorkSpace\WF\Clinic\ReDo\obj\x86\Release\ReDo.pdb
+G:\WorkSpace\WF\Clinic\ReDo\obj\x86\Release\ReDo.csprojResolveAssemblyReference.cache
